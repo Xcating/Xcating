@@ -1,16 +1,13 @@
-
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Haloo-Thisis-XCATING-I-LOVE-U&fontSize=35)
-
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=50&animation=fadeIn&section=header&text=this-is-Xcating-Index-Readme&fontSize=15)
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=50&animation=fadeIn&section=header&text=niceto-meet-you&fontSize=15)
 # 💻My repos:
 [![Json_Integration](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Json_Integration&theme=dark)](https://github.com/Xcating/Json_Integration)
 [![JsCs](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Jscs&theme=dark)](https://github.com/Xcating/Jscs)
 [![webside](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=website&theme=dark)](https://github.com/Xcating/website)
 # 📊 My Discord：
 [![Discord Presence](https://lanyard.cnrad.dev/api/995140672275349596)](https://discord.com/users/995140672275349596)
-
-
+# ⚡MY Tools
+</a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+</a> <a href="https://www.getpaint.net/index.html" target="_blank" rel="noreferrer"> <img src="https://www.getpaint.net/images/Logo4.png" alt="paint.net" width="160" height="40"/> </a> </p>
 [My Index Webside](https://xcating.github.io/website/)
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jvav](https://img.shields.io/badge/Jvav-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
