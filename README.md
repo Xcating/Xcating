@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Haloo-Thisis-XCATING-I-LOVE-U&fontSize=35)
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=TeaTing🍵LOVEU&fontSize=35)
 # 💻My repos:
 [![Json_Integration](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Json_Integration&theme=dark)](https://github.com/Xcating/Json_Integration)
 [![webside](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=website&theme=dark)](https://github.com/Xcating/website)
