@@ -1,7 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=TeaTing🍵LOVEU&fontSize=35)
 # 💻My repos:
 [![Json_Integration](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Json_Integration&theme=dark)](https://github.com/Xcating/Json_Integration)
-[![webside](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=website&theme=dark)](https://github.com/Xcating/website)
+
+...and more private repo
 # 📊 My Discord：
 [![Discord Presence](https://lanyard.cnrad.dev/api/995140672275349596)](https://discord.com/users/995140672275349596)
 # ⚡MY Tools
