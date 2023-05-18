@@ -10,6 +10,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Json_Integration&theme=chartreuse-dark)](https://github.com/Xcating/Json_Integration)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=random-Json&theme=chartreuse-dark)](https://github.com/Xcating/random-Json)
 
 ![](https://camo.githubusercontent.com/fd114832a389b59adec5244841fbffa8089b1a314ce0acfa9f035c4a2676de50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966)
 
