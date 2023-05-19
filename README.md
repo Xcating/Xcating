@@ -31,3 +31,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/Jvav-%232C2D72.svg?style=for-the-badge&logo=C+&logoColor=white) ![Python](https://img.shields.io/badge/python-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ---
 ![Xcating's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcating&count_private=true&theme=chartreuse-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcating&layout=compact&theme=chartreuse-dark)
+
+![](https://komarev.com/ghpvc/?username=Xcating&color=green)
