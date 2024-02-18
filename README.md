@@ -10,7 +10,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=Json_Integration&theme=chartreuse-dark)](https://github.com/Xcating/Json_Integration)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=GhTrTools&theme=chartreuse-dark)](https://github.com/Xcating/PvzTools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=GhTrTools&theme=chartreuse-dark)](https://github.com/Xcating/GhTrTool)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xcating&repo=random-Json&theme=chartreuse-dark)](https://github.com/Xcating/random-Json)
 
